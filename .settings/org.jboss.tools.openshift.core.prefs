@@ -2,5 +2,5 @@ eclipse.preferences.version=1
 org.jboss.tools.openshift.Connection=https\://luan373@console.preview.openshift.com
 org.jboss.tools.openshift.DeployProject=openshift
 org.jboss.tools.openshift.PodPath=
-org.jboss.tools.openshift.Service=openshiftluan@jboss-webserver30-tomcat
+org.jboss.tools.openshift.Service=tomcatluan@tomcat
 org.jboss.tools.openshift.SourcePath=${workspace_loc\:/openshift}
